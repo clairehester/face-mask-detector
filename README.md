@@ -65,9 +65,6 @@ The Streamlit app provides the ability to upload an image and run a face mask de
   - opencv_face_detector
     - deploy.prototxt
     - res10_300x300_ssd_iter_140000.caffemodel
-- Data
-  - [images](data/images)
-  - [annotations](data/annotations)
 - Face Mask Detection - Capstone Presentation
 
 
